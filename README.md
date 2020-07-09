@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frcmalli)
 
 - 🔭 I’m currently working on Adversarsial Robustness.
 - 🎯 I'm experienced in Deep Learning using Pytorch and Tensorflow.
