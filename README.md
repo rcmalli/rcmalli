@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on Adversarsial Robustness.
+- 🔭 I’m currently working on Computer Vision and Reinforcement Learning.
 - 🎯 I'm experienced in Deep Learning using Pytorch and Tensorflow.
 
 [![Linkedin Badge](https://img.shields.io/badge/refikcanmalli-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/refik-can-malli/)](https://www.linkedin.com/in/refik-can-malli/)
